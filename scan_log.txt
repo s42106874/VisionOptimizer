@@ -1,0 +1,258 @@
+Scan Started
+[SKIP] Skipping: C:\$Recycle.Bin
+[SKIP] Skipping: C:\$WinREAgent
+[SKIP] Skipping: C:\Config.Msi
+[SKIP] Skipping: C:\Recovery
+[SKIP] Skipping: C:\System Volume Information
+[SCAN] Found interesting folder: C:\Users
+[ERROR] Failed to open dir C:\Windows\WUModels: [WinError 5] 存取被拒。: 'C:\\Windows\\WUModels'
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\fcba5a255d62dc01ec0500008c277c42\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d43931a40de11\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\fcba5a255d62dc01ec0500008c277c42\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d43931a40de11\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\fcba5a255d62dc01ec0500008c277c42\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d43931a40de11\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\fcba5a255d62dc01ec0500008c277c42\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d43931a40de11\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SKIP] Skipping: C:\Windows\WinSxS\Temp\InFlight\fcba5a255d62dc01ec0500008c277c42\amd64_microsoft-windows-a..etedfeaturedatabase_31bf3856ad364e35_10.0.26100.4202_none_84c7dfbe00b5e3a9\$(build.nttree)
+[SKIP] Skipping: C:\Windows\WinSxS\Temp\InFlight\fcba5a255d62dc01ec0500008c277c42\amd64_microsoft-windows-a..etedfeaturedatabase_31bf3856ad364e35_10.0.26100.4202_none_84c7dfbe00b5e3a9\r\$(build.nttree)
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7309_none_c821d9e11a49a4de\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7309_none_c821d9e11a49a4de\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7309_none_c821d9e11a49a4de\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7309_none_c821d9e11a49a4de\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7019_none_c84349ef1a306a62\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7019_none_c84349ef1a306a62\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7019_none_c84349ef1a306a62\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7019_none_c84349ef1a306a62\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3ff1a67e3a5\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3ff1a67e3a5\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3ff1a67e3a5\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8f3ff1a67e3a5\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849b9c71a2a87f9\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849b9c71a2a87f9\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849b9c71a2a87f9\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\Temp\InFlight\e57d471f478cdc01d60a0000945a1831\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849b9c71a2a87f9\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7623_none_c803f3611a5f9199\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7623_none_c803f3611a5f9199\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7623_none_c803f3611a5f9199\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.7623_none_c803f3611a5f9199\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4768_none_c7fcad031a649b96\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4768_none_c7fcad031a649b96\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4768_none_c7fcad031a649b96\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4768_none_c7fcad031a649b96\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e77f1a5104dd\CBS\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e77f1a5104dd\CBS\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e77f1a5104dd\CBS\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\WinSxS\amd64_userexperience-desktop_31bf3856ad364e35_10.0.26100.1591_none_c815e77f1a5104dd\CBS\Cortana.UI\cache\SVLocal\DesktopDefault
+[SKIP] Skipping: C:\Windows\WinSxS\amd64_microsoft-windows-a..etedfeaturedatabase_31bf3856ad364e35_10.0.26100.4768_none_8497492e00d9a12e\$(build.nttree)
+[SKIP] Skipping: C:\Windows\WinSxS\amd64_microsoft-windows-a..etedfeaturedatabase_31bf3856ad364e35_10.0.26100.4768_none_8497492e00d9a12e\r\$(build.nttree)
+[SKIP] Skipping: C:\Windows\WinSxS\amd64_microsoft-windows-a..etedfeaturedatabase_31bf3856ad364e35_10.0.26100.1591_none_84b083aa00c60a75\$(build.nttree)
+[ERROR] Failed to open dir C:\Windows\Temp: [WinError 5] 存取被拒。: 'C:\\Windows\\Temp'
+[SCAN] Found interesting folder: C:\Windows\SysWOW64\GroupPolicyUsers
+[SKIP] Skipping: C:\Windows\SysWOW64\Recovery
+[ERROR] Failed to open dir C:\Windows\SysWOW64\Tasks: [WinError 5] 存取被拒。: 'C:\\Windows\\SysWOW64\\Tasks'
+[ERROR] Failed to open dir C:\Windows\SysWOW64\sru: [WinError 5] 存取被拒。: 'C:\\Windows\\SysWOW64\\sru'
+[ERROR] Failed to open dir C:\Windows\SysWOW64\NetworkList: [WinError 5] 存取被拒。: 'C:\\Windows\\SysWOW64\\NetworkList'
+[ERROR] Failed to open dir C:\Windows\SysWOW64\Msdtc: [WinError 5] 存取被拒。: 'C:\\Windows\\SysWOW64\\Msdtc'
+[ERROR] Failed to open dir C:\Windows\SysWOW64\Configuration: [WinError 5] 存取被拒。: 'C:\\Windows\\SysWOW64\\Configuration'
+[ERROR] Failed to open dir C:\Windows\SysWOW64\config: [WinError 5] 存取被拒。: 'C:\\Windows\\SysWOW64\\config'
+[ERROR] Failed to open dir C:\Windows\SysWOW64\Com\dmp: [WinError 5] 存取被拒。: 'C:\\Windows\\SysWOW64\\Com\\dmp'
+[ERROR] Failed to open dir C:\Windows\SystemTemp: [WinError 5] 存取被拒。: 'C:\\Windows\\SystemTemp'
+[SCAN] Found interesting folder: C:\Windows\SystemResources\ShellComponents.DesktopHosting
+[SCAN] Found interesting folder: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight
+[SCAN] Found interesting folder: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopStickerEditorWin32Exe
+[SCAN] Found interesting folder: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Cortana.UI\cache\SVLocal\Desktop
+[SCAN] Found interesting folder: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Cortana.UI\cache\SVLocal\DesktopDefault
+[SCAN] Found interesting folder: C:\Windows\System32\GroupPolicyUsers
+[SKIP] Skipping: C:\Windows\System32\Recovery
+[SCAN] Found interesting folder: C:\Windows\System32\WindowsPowerShell\v1.0\Modules\RemoteDesktop
+[ERROR] Failed to open dir C:\Windows\System32\WebThreatDefSvc: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\WebThreatDefSvc'
+[ERROR] Failed to open dir C:\Windows\System32\WDI: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\WDI'
+[ERROR] Failed to open dir C:\Windows\System32\wbem\MOF: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\wbem\\MOF'
+[ERROR] Failed to open dir C:\Windows\System32\Tasks: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\Tasks'
+[ERROR] Failed to open dir C:\Windows\System32\sru: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\sru'
+[ERROR] Failed to open dir C:\Windows\System32\spool\SERVERS: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\spool\\SERVERS'
+[ERROR] Failed to open dir C:\Windows\System32\spool\PRINTERS: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\spool\\PRINTERS'
+[ERROR] Failed to open dir C:\Windows\System32\SleepStudy: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\SleepStudy'
+[ERROR] Failed to open dir C:\Windows\System32\networklist: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\networklist'
+[ERROR] Failed to open dir C:\Windows\System32\MsDtc: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\MsDtc'
+[SKIP] Skipping: C:\Windows\System32\Microsoft\Protect\Recovery
+[ERROR] Failed to open dir C:\Windows\System32\LogFiles\WMI: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\LogFiles\\WMI'
+[ERROR] Failed to open dir C:\Windows\System32\LogFiles\Firewall: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\LogFiles\\Firewall'
+[ERROR] Failed to open dir C:\Windows\System32\ias: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\ias'
+[ERROR] Failed to open dir C:\Windows\System32\DriverState: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\DriverState'
+[ERROR] Failed to open dir C:\Windows\System32\drivers\DriverData: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\drivers\\DriverData'
+[ERROR] Failed to open dir C:\Windows\System32\drivers\CsInstallerCache: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\drivers\\CsInstallerCache'
+[ERROR] Failed to open dir C:\Windows\System32\drivers\CrowdStrike: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\drivers\\CrowdStrike'
+[ERROR] Failed to open dir C:\Windows\System32\Configuration: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\Configuration'
+[ERROR] Failed to open dir C:\Windows\System32\config: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\config'
+[ERROR] Failed to open dir C:\Windows\System32\Com\dmp: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\Com\\dmp'
+[ERROR] Failed to open dir C:\Windows\System32\appmgmt\S-1-5-18: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\appmgmt\\S-1-5-18'
+[ERROR] Failed to open dir C:\Windows\System32\appmgmt\MACHINE: [WinError 5] 存取被拒。: 'C:\\Windows\\System32\\appmgmt\\MACHINE'
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~~amd64~~10.0.26100.1
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Microsoft-Windows-Client-Desktop-Required-Package~~amd64~~10.0.26100.1
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Microsoft-Windows-Client-Desktop-Required-WOW64-Package~~amd64~~10.0.26100.1
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Microsoft-Windows-Required-ShellExperiences-Desktop-Package~~amd64~~10.0.26100.1
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Microsoft-Windows-Required-ShellExperiences-Desktop-WOW64-Package~~amd64~~10.0.26100.1
+[SKIP] Skipping: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Package_for_RollupFix~~amd64~~26100.4946.1.26\$dpx$.tmp
+[SKIP] Skipping: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Package_for_RollupFix~~amd64~~26100.1742.1.10\$dpx$.tmp
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Metadata\Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Metadata\Microsoft-Windows-Client-Desktop-Required-Package
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Metadata\Microsoft-Windows-Client-Desktop-Required-WOW64-Package
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Metadata\Microsoft-Windows-Required-ShellExperiences-Desktop-Package
+[SCAN] Found interesting folder: C:\Windows\SoftwareDistribution.old\Download\0e3fca40b39a8f430c3ce3cc3eb1e379\Metadata\Microsoft-Windows-Required-ShellExperiences-Desktop-WOW64-Package
+[ERROR] Failed to open dir C:\Windows\ServiceState: [WinError 5] 存取被拒。: 'C:\\Windows\\ServiceState'
+[ERROR] Failed to open dir C:\Windows\ServiceProfiles\NetworkService: [WinError 5] 存取被拒。: 'C:\\Windows\\ServiceProfiles\\NetworkService'
+[ERROR] Failed to open dir C:\Windows\ServiceProfiles\LocalService: [WinError 5] 存取被拒。: 'C:\\Windows\\ServiceProfiles\\LocalService'
+[ERROR] Failed to open dir C:\Windows\security\cap: [WinError 5] 存取被拒。: 'C:\\Windows\\security\\cap'
+[ERROR] Failed to open dir C:\Windows\security\audit: [WinError 5] 存取被拒。: 'C:\\Windows\\security\\audit'
+[ERROR] Failed to open dir C:\Windows\Resources\Themes\aero\VSCache: [WinError 5] 存取被拒。: 'C:\\Windows\\Resources\\Themes\\aero\\VSCache'
+[SCAN] Found interesting folder: C:\Windows\RemotePackages\RemoteDesktops
+[ERROR] Failed to open dir C:\Windows\Provisioning\Autopilot: [WinError 5] 存取被拒。: 'C:\\Windows\\Provisioning\\Autopilot'
+[ERROR] Failed to open dir C:\Windows\Prefetch: [WinError 5] 存取被拒。: 'C:\\Windows\\Prefetch'
+[ERROR] Failed to open dir C:\Windows\PLA\Templates: [WinError 5] 存取被拒。: 'C:\\Windows\\PLA\\Templates'
+[ERROR] Failed to open dir C:\Windows\PLA\Rules: [WinError 5] 存取被拒。: 'C:\\Windows\\PLA\\Rules'
+[ERROR] Failed to open dir C:\Windows\PLA\Reports: [WinError 5] 存取被拒。: 'C:\\Windows\\PLA\\Reports'
+[SCAN] Found interesting folder: C:\Windows\Personalization\DesktopImage
+[ERROR] Failed to open dir C:\Windows\ModemLogs: [WinError 5] 存取被拒。: 'C:\\Windows\\ModemLogs'
+[SCAN] Found interesting folder: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Security\Users
+[SCAN] Found interesting folder: C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ASP.NETWebAdminFiles\Security\Users
+[SCAN] Found interesting folder: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Security\Users
+[SCAN] Found interesting folder: C:\Windows\Microsoft.NET\Framework\v2.0.50727\ASP.NETWebAdminFiles\Security\Users
+[SCAN] Found interesting folder: C:\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.RemoteDesktopServices.Management.Activities
+[SCAN] Found interesting folder: C:\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.RemoteDesktopServices.Management.Activities.resources
+[ERROR] Failed to open dir C:\Windows\Microsoft\Windows\Models: [WinError 5] 存取被拒。: 'C:\\Windows\\Microsoft\\Windows\\Models'
+[ERROR] Failed to open dir C:\Windows\Logs\Telephony: [WinError 5] 存取被拒。: 'C:\\Windows\\Logs\\Telephony'
+[ERROR] Failed to open dir C:\Windows\Logs\SystemRestore: [WinError 5] 存取被拒。: 'C:\\Windows\\Logs\\SystemRestore'
+[ERROR] Failed to open dir C:\Windows\LiveKernelReports: [WinError 5] 存取被拒。: 'C:\\Windows\\LiveKernelReports'
+[SKIP] Skipping: C:\Windows\Installer\$PatchCache$
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\ff6e1f01-c5e1-4a69-b0f4-a4f01d5ed1af_9: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\ff6e1f01-c5e1-4a69-b0f4-a4f01d5ed1af_9'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\feb77091-06c8-4a91-a840-7ecfd2a2c1c8_4: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\feb77091-06c8-4a91-a840-7ecfd2a2c1c8_4'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\fa01c27b-90b3-48b2-87af-fcbee15e91f3_6: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\fa01c27b-90b3-48b2-87af-fcbee15e91f3_6'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\f4af6efc-e6d0-4503-9c2a-9eb3a1a15e0f_1: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\f4af6efc-e6d0-4503-9c2a-9eb3a1a15e0f_1'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\d1d90638-f597-4560-a1b0-5432ebe1bf53_1: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\d1d90638-f597-4560-a1b0-5432ebe1bf53_1'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\d12f43b7-e4f9-442b-b990-841912aac47a_5: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\d12f43b7-e4f9-442b-b990-841912aac47a_5'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\b851c29c-450f-4029-bbb3-7fb4179019c6_2: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\b851c29c-450f-4029-bbb3-7fb4179019c6_2'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\947e1d14-a56c-4a2b-9d4b-ac8ecdcddb1d_2: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\947e1d14-a56c-4a2b-9d4b-ac8ecdcddb1d_2'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\8cf7879a-b0e2-4ceb-85b9-fa68f18d04be_3: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\8cf7879a-b0e2-4ceb-85b9-fa68f18d04be_3'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\33ca6df4-d19b-4bcd-8729-b0dfa8a3525b_1: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\33ca6df4-d19b-4bcd-8729-b0dfa8a3525b_1'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\22600006-cea1-4d76-b63a-4efbe4398ca0_1: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\22600006-cea1-4d76-b63a-4efbe4398ca0_1'
+[ERROR] Failed to open dir C:\Windows\IMECache\HealthScripts\16b9da22-6bcc-405f-8db5-dd29cad898ef_1: [WinError 5] 存取被拒。: 'C:\\Windows\\IMECache\\HealthScripts\\16b9da22-6bcc-405f-8db5-dd29cad898ef_1'
+[ERROR] Failed to open dir C:\Windows\CSC: [WinError 5] 存取被拒。: 'C:\\Windows\\CSC'
+[ERROR] Failed to open dir C:\Windows\appcompat\Programs: [WinError 5] 存取被拒。: 'C:\\Windows\\appcompat\\Programs'
+[ERROR] Failed to open dir C:\Windows\appcompat\Backup: [WinError 5] 存取被拒。: 'C:\\Windows\\appcompat\\Backup'
+[ERROR] Failed to open dir C:\Windows\appcompat\appraiser: [WinError 5] 存取被拒。: 'C:\\Windows\\appcompat\\appraiser'
+[SCAN] Found interesting folder: C:\Users\Jack_Liu
+[SCAN] Found interesting folder: C:\Users\Jack_Liu_ADM
+[SCAN] Found interesting folder: C:\Users\Public\Desktop
+[ERROR] Failed to open dir C:\Users\Public\Documents\My Videos: [WinError 5] 存取被拒。: 'C:\\Users\\Public\\Documents\\My Videos'
+[ERROR] Failed to open dir C:\Users\Public\Documents\My Pictures: [WinError 5] 存取被拒。: 'C:\\Users\\Public\\Documents\\My Pictures'
+[ERROR] Failed to open dir C:\Users\Public\Documents\My Music: [WinError 5] 存取被拒。: 'C:\\Users\\Public\\Documents\\My Music'
+[ERROR] Failed to open dir C:\Users\Mike_Chung_ADM: [WinError 5] 存取被拒。: 'C:\\Users\\Mike_Chung_ADM'
+[ERROR] Failed to open dir C:\Users\Mike_Chung: [WinError 5] 存取被拒。: 'C:\\Users\\Mike_Chung'
+[ERROR] Failed to open dir C:\Users\Jack_Liu_ADM: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu_ADM'
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\Desktop
+[ERROR] Failed to open dir C:\Users\Jack_Liu\「開始」功能表: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\「開始」功能表'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Templates: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Templates'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\SendTo: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\SendTo'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Recent: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Recent'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\PrintHood: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\PrintHood'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\NetHood: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\NetHood'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\My Documents: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\My Documents'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Local Settings: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Local Settings'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Documents\My Videos: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Documents\\My Videos'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Documents\My Pictures: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Documents\\My Pictures'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Documents\My Music: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Documents\\My Music'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Cookies: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Cookies'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\Application Data: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\Application Data'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\AppData\Roaming\Microsoft\Windows\Start Menu\程式集: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\程式集'
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\AppData\LocalLow\Adobe\Acrobat\DC\Reader\DesktopNotification
+[ERROR] Failed to open dir C:\Users\Jack_Liu\AppData\Local\Temporary Internet Files: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\AppData\\Local\\Temporary Internet Files'
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\AppData\Local\Packages\Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+[ERROR] Failed to open dir C:\Users\Jack_Liu\AppData\Local\Microsoft\Windows\Temporary Internet Files: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\AppData\Local\Microsoft\Windows\INetCache\Low\Content.IE5: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Low\\Content.IE5'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\AppData\Local\Microsoft\Windows\INetCache\Content.IE5: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.IE5'
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\AppData\Local\Microsoft\PlayReady\Internet Explorer\Desktop
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\AppData\Local\Microsoft\PlayReady\Internet Explorer\InPrivate\Desktop
+[SCAN] Found interesting folder: C:\Users\Jack_Liu\AppData\Local\Microsoft\Office\16.0\WebServiceCache\AllUsers
+[SKIP] Skipping: C:\Users\Jack_Liu\AppData\Local\Microsoft\EDP\Recovery
+[ERROR] Failed to open dir C:\Users\Jack_Liu\AppData\Local\History: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\AppData\\Local\\History'
+[ERROR] Failed to open dir C:\Users\Jack_Liu\AppData\Local\Application Data: [WinError 5] 存取被拒。: 'C:\\Users\\Jack_Liu\\AppData\\Local\\Application Data'
+[ERROR] Failed to open dir C:\Users\defaultuser0: [WinError 5] 存取被拒。: 'C:\\Users\\defaultuser0'
+[ERROR] Failed to open dir C:\Users\Default User: [WinError 5] 存取被拒。: 'C:\\Users\\Default User'
+[SCAN] Found interesting folder: C:\Users\Default\Desktop
+[ERROR] Failed to open dir C:\Users\Default\「開始」功能表: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\「開始」功能表'
+[ERROR] Failed to open dir C:\Users\Default\Templates: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Templates'
+[ERROR] Failed to open dir C:\Users\Default\SendTo: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\SendTo'
+[ERROR] Failed to open dir C:\Users\Default\Recent: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Recent'
+[ERROR] Failed to open dir C:\Users\Default\PrintHood: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\PrintHood'
+[ERROR] Failed to open dir C:\Users\Default\NetHood: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\NetHood'
+[ERROR] Failed to open dir C:\Users\Default\My Documents: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\My Documents'
+[ERROR] Failed to open dir C:\Users\Default\Local Settings: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Local Settings'
+[ERROR] Failed to open dir C:\Users\Default\Documents\My Videos: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Documents\\My Videos'
+[ERROR] Failed to open dir C:\Users\Default\Documents\My Pictures: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Documents\\My Pictures'
+[ERROR] Failed to open dir C:\Users\Default\Documents\My Music: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Documents\\My Music'
+[ERROR] Failed to open dir C:\Users\Default\Cookies: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Cookies'
+[ERROR] Failed to open dir C:\Users\Default\Application Data: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\Application Data'
+[ERROR] Failed to open dir C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\程式集: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\程式集'
+[ERROR] Failed to open dir C:\Users\Default\AppData\Local\Temporary Internet Files: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\AppData\\Local\\Temporary Internet Files'
+[ERROR] Failed to open dir C:\Users\Default\AppData\Local\Microsoft\Windows\Temporary Internet Files: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files'
+[ERROR] Failed to open dir C:\Users\Default\AppData\Local\Microsoft\Windows\INetCache\Content.IE5: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.IE5'
+[ERROR] Failed to open dir C:\Users\Default\AppData\Local\History: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\AppData\\Local\\History'
+[ERROR] Failed to open dir C:\Users\Default\AppData\Local\Application Data: [WinError 5] 存取被拒。: 'C:\\Users\\Default\\AppData\\Local\\Application Data'
+[ERROR] Failed to open dir C:\ProgramData\桌面: [WinError 5] 存取被拒。: 'C:\\ProgramData\\桌面'
+[ERROR] Failed to open dir C:\ProgramData\「開始」功能表: [WinError 5] 存取被拒。: 'C:\\ProgramData\\「開始」功能表'
+[ERROR] Failed to open dir C:\ProgramData\Zscaler: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Zscaler'
+[ERROR] Failed to open dir C:\ProgramData\Templates: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Templates'
+[ERROR] Failed to open dir C:\ProgramData\Packages: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Packages'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\PSScriptOutputs: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Temp\\PSScriptOutputs'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Task: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Task'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\SenseNDR: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\SenseNDR'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\SenseCM: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\SenseCM'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Platform: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Platform'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Downloads: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Downloads'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\DLP: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\DLP'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\DataScan\Classification: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\DataScan\\Classification'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\DataCollection: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\DataCollection'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Cyber: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Cyber'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Cache: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Cache'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender\Support: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender\\Support'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender\Scans: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender\\Scans'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender\Quarantine: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender\\Quarantine'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender\Network Inspection System: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender\\Network Inspection System'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender\LocalCopy: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender\\LocalCopy'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender\Features: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender\\Features'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows Defender\Clean Store: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows Defender\\Clean Store'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\WSAIFabric: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\WSAIFabric'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\wfp: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\wfp'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\SystemData: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\SystemData'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\Start Menu\程式集: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\程式集'
+[SCAN] Found interesting folder: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Remote Desktop Services
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\Power Efficiency Diagnostics: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\Power Efficiency Diagnostics'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\PackagedEventProviders: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\PackagedEventProviders'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\Models: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\Models'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\LfSvc: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\LfSvc'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\CapabilityAccessManager: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\CapabilityAccessManager'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Windows\AppRepository: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Windows\\AppRepository'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\SmsRouter: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\SmsRouter'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Search\Data: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Search\\Data'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Provisioning\AssetCache: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Provisioning\\AssetCache'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Network\Downloader: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Network\\Downloader'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Diagnosis: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Diagnosis'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Crypto\SystemKeys: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Crypto\\SystemKeys'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Crypto\RSA\S-1-5-18: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Crypto\\RSA\\S-1-5-18'
+[ERROR] Failed to open dir C:\ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Microsoft\\Crypto\\PCPKSP\\WindowsAIK'
+[ERROR] Failed to open dir C:\ProgramData\Documents: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Documents'
+[ERROR] Failed to open dir C:\ProgramData\CrowdStrike\QuarantineReleaseRemovableMedia: [WinError 5] 存取被拒。: 'C:\\ProgramData\\CrowdStrike\\QuarantineReleaseRemovableMedia'
+[ERROR] Failed to open dir C:\ProgramData\Application Data: [WinError 5] 存取被拒。: 'C:\\ProgramData\\Application Data'
+[ERROR] Failed to open dir C:\Program Files (x86)\Microsoft Intune Management Extension\Content\Staging\a78c77c0-c10d-4cda-a615-b67c203550a0_2: [WinError 5] 存取被拒。: 'C:\\Program Files (x86)\\Microsoft Intune Management Extension\\Content\\Staging\\a78c77c0-c10d-4cda-a615-b67c203550a0_2'
+[ERROR] Failed to open dir C:\Program Files (x86)\Google\CrashReports: [WinError 5] 存取被拒。: 'C:\\Program Files (x86)\\Google\\CrashReports'
+[ERROR] Failed to open dir C:\Program Files\WindowsApps: [WinError 5] 存取被拒。: 'C:\\Program Files\\WindowsApps'
+[ERROR] Failed to open dir C:\Program Files\Windows Defender Advanced Threat Protection\Classification\Configuration: [WinError 5] 存取被拒。: 'C:\\Program Files\\Windows Defender Advanced Threat Protection\\Classification\\Configuration'
+[ERROR] Failed to open dir C:\Program Files\Microsoft Device Inventory Agent\InventoryService: [WinError 5] 存取被拒。: 'C:\\Program Files\\Microsoft Device Inventory Agent\\InventoryService'
+[ERROR] Failed to open dir C:\Program Files\CrowdStrike\odsdb: [WinError 5] 存取被拒。: 'C:\\Program Files\\CrowdStrike\\odsdb'
+[ERROR] Failed to open dir C:\Program Files\CrowdStrike\Falcon4IT: [WinError 5] 存取被拒。: 'C:\\Program Files\\CrowdStrike\\Falcon4IT'
+[ERROR] Failed to open dir C:\Program Files\CrowdStrike\Extensibility: [WinError 5] 存取被拒。: 'C:\\Program Files\\CrowdStrike\\Extensibility'
+[ERROR] Failed to open dir C:\Program Files\CrowdStrike\Database: [WinError 5] 存取被拒。: 'C:\\Program Files\\CrowdStrike\\Database'
+[SCAN] Found interesting folder: C:\Program Files\ASUS\AsusIME\zhtw\data\Jack_Liu
+[ERROR] Failed to open dir C:\PerfLogs: [WinError 5] 存取被拒。: 'C:\\PerfLogs'
+[ERROR] Failed to open dir C:\OneDriveTemp\S-1-12-1-659859941-1328096668-3097977746-3387417457: [WinError 5] 存取被拒。: 'C:\\OneDriveTemp\\S-1-12-1-659859941-1328096668-3097977746-3387417457'
+[ERROR] Failed to open dir C:\Documents and Settings: [WinError 5] 存取被拒。: 'C:\\Documents and Settings'
