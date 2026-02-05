@@ -246,8 +246,15 @@ def main():
     
     app = QApplication(sys.argv)
     
+    # Helper for PyInstaller --onefile support
+    def resource_path(relative_path):
+        if hasattr(sys, '_MEIPASS'):
+            return os.path.join(sys._MEIPASS, relative_path)
+        return os.path.join(os.path.abspath("."), relative_path)
+    
     # Set Application Icon
-    app_icon = QIcon("icon.ico")
+    icon_path = resource_path("icon.ico")
+    app_icon = QIcon(icon_path)
     app.setWindowIcon(app_icon)
     
     # Apply Dark Theme

@@ -39,3 +39,13 @@
    ```bash
    python main.py
    ```
+
+### 📦 打包發布
+
+若要將程式打包為獨立的 `.exe` 執行檔，請執行：
+
+```bash
+python build.py
+```
+
+打包成功後，執行檔將位於 `dist/VisionOptimizer.exe`。
