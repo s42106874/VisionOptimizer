@@ -36,8 +36,7 @@ try:
         '--hidden-import=psutil',
         # Add core and ui paths to search path
         f'--paths={current_dir}',
-        '--hidden-import=ui',
-        '--hidden-import=core',
+        f'--add-data={os.path.join(current_dir, "icon.ico")};.',
         '--uac-admin',
     ])
 

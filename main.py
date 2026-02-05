@@ -239,12 +239,22 @@ class MainWindow(QMainWindow):
 def main():
     QApplication.setHighDpiScaleFactorRoundingPolicy(Qt.HighDpiScaleFactorRoundingPolicy.PassThrough)
     
+    # Setup AppUserModelID for Windows Taskbar Icon
+    import ctypes
+    myappid = 'vision.optimizer.master.1.0'  # arbitrary string
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
+    
     app = QApplication(sys.argv)
+    
+    # Set Application Icon
+    app_icon = QIcon("icon.ico")
+    app.setWindowIcon(app_icon)
     
     # Apply Dark Theme
     qdarktheme.setup_theme("dark", corner_shape="rounded")
     
     window = MainWindow()
+    window.setWindowIcon(app_icon) # Ensure window also gets the icon
     window.show()
     
     sys.exit(app.exec())
