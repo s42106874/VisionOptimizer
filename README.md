@@ -1,5 +1,8 @@
 # 傲視系統優化大師 (Vision System Optimizer)
 
+![儀表板](docs/screenshot.png)
+
+
 一款基於 Python 與 PySide6 打造的專業級系統優化工具。結合極致的現代化 UI 設計與強大的系統優化核心，提供一站式的電腦維護體驗。
 
 ## ✨ 主要功能
